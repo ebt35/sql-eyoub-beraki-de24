@@ -1,1 +1,1 @@
-# sql-eyoub-beraki-de24
+# SQL course using duckdb
