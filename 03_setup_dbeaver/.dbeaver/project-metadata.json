@@ -1,0 +1,1 @@
+{"resources":{"SQL/create_table.sql":{"default-datasource":"duckdb_jdbc-1931fd061d5-2842df89dc980ee9","default-catalog":"jokes"},"SQL/insert_jokes.sql":{"default-datasource":"duckdb_jdbc-1931fd061d5-2842df89dc980ee9","default-catalog":"jokes"},"SQL/quaries.sql":{"default-datasource":"duckdb_jdbc-1931fd061d5-2842df89dc980ee9","default-catalog":"jokes"}}}
