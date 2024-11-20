@@ -1,5 +1,5 @@
 CREATE TABLE
-    IF NOT EXISTS data_jobs as (
+    IF NOT EXISTS data_jobs AS (
         SELECT
             *
         FROM
